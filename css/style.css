@@ -138,17 +138,16 @@ body {
 .soc_icons ul{
 	margin-bottom: 0;
 }
-.soc_icons ul li{
+.soc_icons li{
 	display:inline-block;
 	border-left: 1px solid rgb(39, 37, 37);
-	margin-left: -3px;
+	
 }
 .soc_icons ul li a{
 	color:#ffffff;
-	font-size: 24px;
 	display: block;
-	line-height: 60px;
-	width: 60px;
+	line-height: 20px;
+	width: 112px;
 	height: 60px;
 	-webkit-transition: all 0.3s ease-in-out;
 	-moz-transition: all 0.3s ease-in-out;
